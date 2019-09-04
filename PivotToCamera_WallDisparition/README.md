@@ -1,9 +1,11 @@
-# Controls Free Camera Android  
-dirty wip script
+# PivotToCamera WallDisparition
 
-![](https://github.com/MatthisPralat/Unity_scripts/blob/master/Android_Control/Android_Free_Camera_Control_img_doc/InGameCapture.gif?raw=true)
+Prototype for a sims house effect on AR app or Orbit controls
 
-Simple free cam controls for android in one script, the package contain the ui element, and one exemple scene with the good bindings.
-you can change the ui element by what you want. This was made for personal needs so it's commented in french, and not optimized, but for a quick demo it's working. I will update the code but it's not my priority.
+![](https://github.com/MatthisPralat/Unity_scripts/blob/master/PivotToCamera_WallDisparition/doc/PivotToCamera_WallDisparition.gif?raw=true)
 
-![](https://raw.githubusercontent.com/MatthisPralat/Unity_scripts/master/Android_Control/Android_Free_Camera_Control_img_doc/ScriptInputs.PNG?raw=true)
+A pivot with a collider follow your camera. If the collider touch a wall this is changing the materials of the wall.
+Simpler as that
+
+![](https://github.com/MatthisPralat/Unity_scripts/blob/master/PivotToCamera_WallDisparition/doc/PivotCollision_Parrameter.PNG?raw=true)
+![](https://github.com/MatthisPralat/Unity_scripts/blob/master/PivotToCamera_WallDisparition/doc/AllColision.PNG?raw=true)
